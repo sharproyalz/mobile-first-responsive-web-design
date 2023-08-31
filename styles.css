@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 30px;
+}
+
+#logo {
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 37px;
+}
+
+#right-header {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+}
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+#get-started {
+    border: 2px solid #ffffff;
+}
